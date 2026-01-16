@@ -49,7 +49,6 @@ Thumbs.db
 .gitkeep
 
 # Data & Models
-data/raw.csv
 data/*.csv
 data/downloads/
 *.pth
